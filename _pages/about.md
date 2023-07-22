@@ -39,5 +39,6 @@ Honors & Awards
 - [2022] Outstanding graduate student award.
 - [2022] AAAI 2022 Data-Centric Robust Learning on ML Models, Twelfth Place Award.
 - [2021] Outstanding student award.
+- [2021] Second-Rank Academic Scholarship
 - [2021] Research and Innovation Scholarship.
 - [2020] First-Rank Outstanding Student Scholarship.
