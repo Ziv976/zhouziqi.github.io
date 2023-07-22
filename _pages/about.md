@@ -24,13 +24,13 @@ I am broadly interested in federated learning, algorithm robustness, distributed
 
 Publication 
 ------
-- BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272).
-Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
-Proceedings of the 30th ACM International Conference on Multimedia  (*ACM MM 2022*).  
+- Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
+BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
+In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
-- Downstream-agnostic Adversarial Examples. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272).
-**Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin .
-Proceedings of the International Conference on Computer Vision  (*ICCV 2023*).  
+- **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
+Downstream-agnostic Adversarial Examples.
+In Proceedings of **ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
 Honors & Awards
 ------
