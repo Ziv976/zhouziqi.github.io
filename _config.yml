@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziqi Zhou / AI Security"
 title_separator          : "-"
 name                     : &name "Ziqi Zhou"
-description              : &description "personal description"
+description              : &description "Master in Huazhong University of Science and Technology (HUST)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://ziv976.github.io"
   google_plus      :
   keybase          :
   instagram        :
