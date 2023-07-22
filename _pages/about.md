@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - 周子淇 / Ziqi Zhou"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ I am an enthusiastic researcher with a passion for exploring new ideas and pushi
 Education
 ======
 - 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, M.S. in Cyberspace Security 
-- 2023 - now  School of Computer Science and Technology, Huazhong University of Science and Technology, Ph.D. in Computer Science 
+- 2023 - Now  School of Computer Science and Technology, Huazhong University of Science and Technology, Ph.D. in Computer Science 
   
 Research Interests
 ======
@@ -28,7 +28,7 @@ In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHa
 
 - **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
 Downstream-agnostic Adversarial Examples.
-In Proceedings of **ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
+In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
 Honors & Awards
 ------
