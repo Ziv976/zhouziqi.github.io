@@ -28,12 +28,9 @@ Shielding Federated Learning: Rectifying Direction Is All You Need
 **Jianrong Lu**; Shengshan Hu; Wei Wan; Minghui Li; Leo Yu Zhang; Xiaojing Ma; Hai Jin 
 NDSS 2023, UNDER REVIEW (passed the first round of review): The Network and Distributed System Security Symposium (NDSS), 2023 
 
-BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label. [Code](https://github.com/CGCL-codes/BadHash)[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
-ACM MM 2022，Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin 
+BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
+*ACM MM 2022* ，Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin 
 
-
-
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Honors & Awards
 ------
