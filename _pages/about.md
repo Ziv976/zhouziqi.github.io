@@ -41,4 +41,3 @@ Honors & Awards
 - [2021] Outstanding student award.
 - [2021] Research and Innovation Scholarship.
 - [2020] First-Rank Outstanding Student Scholarship.
-- [2019] National College Students' Mobile Internet Innovation Competition, First-Rank Award.
