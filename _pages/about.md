@@ -13,8 +13,10 @@ I am an enthusiastic researcher with a passion for exploring new ideas and pushi
 
 Education
 ======
-- 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, China，M.S. in Cyberspace Security 
-- 2023 - Now  School of Computer Science and Technology, Huazhong University of Science and Technology,China, Ph.D. in Computer Science 
+- 2023 - Now  School of Computer Science and Technology, Huazhong University of Science and Technology, China,
+  Ph.D. in Computer Science
+- 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, China, 
+  M.S. in Cyberspace Security
   
 Research Interests
 ======
@@ -22,17 +24,21 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ------
+- **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
+Downstream-agnostic Adversarial Examples.
+In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 - Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
 BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
 In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
-- **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
-Downstream-agnostic Adversarial Examples.
-In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
-
 Honors & Awards
 ------
-- [2023] Outstanding Graduate Student Communist Party Member Model Award
+- [2023] Outstanding Graduate Student Communist Party Member Model Award.
+- [2022] National Artificial Intelligence Security Competition, Excellence Award.
 - [2022] National Scholarship for graduate students.
 - [2022] Outstanding graduate student award.
-
+- [2022] AAAI 2022 Data-Centric Robust Learning on ML Models, Twelfth Place Award.
+- [2021] Outstanding student award.
+- [2021] Research and Innovation Scholarship.
+- [2020] First-Rank Outstanding Student Scholarship.
+- [2019] National College Students' Mobile Internet Innovation Competition, First-Rank Award.
