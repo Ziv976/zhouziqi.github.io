@@ -34,6 +34,6 @@ In Proceedings of **ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEnco
 
 Honors & Awards
 ------
--[2022] National Scholarship for graduate students.
+- [2022] National Scholarship for graduate students.
 
 
