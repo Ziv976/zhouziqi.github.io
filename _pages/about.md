@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student advised by Prof. Shengshan Hu, Dezhong Yao in School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST).
+I am currently a Ph.D. student advised by Prof. Shengshan Hu, Dezhong Yao in School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST) and  affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn)) Lab, Trustworthy Artificial Intelligence ([T-AI](http://trustai.group)) Group.
 
 I am an enthusiastic researcher with a passion for exploring new ideas and pushing the boundaries of knowledge. In addition to my academic pursuits, I am also an avid debater and enjoy participating in debate competitions. I find great satisfaction in the process of thinking critically and exchanging ideas with others, and I believe that this skillset has been invaluable in my pursuit of academic excellence. I am committed to pursuing research that not only advances our understanding of the world around us, but also has the potential to positively impact society at large.
 
