@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an enthusiastic researcher with a passion for exploring new ideas and pushing the boundaries of knowledge. In addition to my academic pursuits, I am also an avid debater and enjoy participating in debate competitions. I find great satisfaction in the process of thinking critically and exchanging ideas with others, and I believe that this skillset has been invaluable in my pursuit of academic excellence. I am committed to pursuing research that not only advances our understanding of the world around us, but also has the potential to positively impact society at large.
 
 Education
 ======
-- 2021-2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, M.S. in Cyberspace Security 
-- 2023-now  School of Computer Science and Technology, Huazhong University of Science and Technology, Ph.D. in Computer Science 
+- 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, M.S. in Cyberspace Security 
+- 2023 - now  School of Computer Science and Technology, Huazhong University of Science and Technology, Ph.D. in Computer Science 
   
 Research Interests
 ======
