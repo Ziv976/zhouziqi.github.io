@@ -18,9 +18,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research Interests
 ======
-My research focuses on providing fundamental understandings of how Federated Learning (FL) is influenced by system-level variability in the computing infrastructure, and statistical variability in the training data, under adversarial settings. Inspired by the theoretical or experimental insights, I seek to design system- and data-aware distributed/federated training algorithms that are byzantine-robust and superior in generalization performance. In the future, I am committed to improving distributed/federated training algorithms that can seamlessly scale to a large number of computing nodes in realistic scenarios in terms of byzantine robustness, privacy preserving, communication/computation efficiency, and generalization performance.
-
-I am broadly interested in federated learning, algorithm robustness, distributed optimization, and medical image analysis.
+As a researcher in the field of artificial intelligence, my primary interest lies in the area of AI security. Specifically, I am interested in the study of adversarial samples and backdoor attacks, with a recent focus on the security of pre-trained large models and the vulnerability of image segmentation and object detection to adversarial attacks. My research aims to develop robust and secure AI systems that can withstand various types of attacks and ensure the safety and reliability of AI applications. Through my work, I hope to contribute to the advancement of AI security and establish a more secure and trustworthy AI ecosystem.
 
 Publication 
 ------
