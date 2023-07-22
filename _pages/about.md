@@ -13,8 +13,8 @@ I am an enthusiastic researcher with a passion for exploring new ideas and pushi
 
 Education
 ======
-- 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, M.S. in Cyberspace Security 
-- 2023 - Now  School of Computer Science and Technology, Huazhong University of Science and Technology, Ph.D. in Computer Science 
+- 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, China，M.S. in Cyberspace Security 
+- 2023 - Now  School of Computer Science and Technology, Huazhong University of Science and Technology,China, Ph.D. in Computer Science 
   
 Research Interests
 ======
