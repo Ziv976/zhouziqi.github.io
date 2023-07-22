@@ -22,16 +22,15 @@ My research focuses on providing fundamental understandings of how Federated Lea
 
 I am broadly interested in federated learning, algorithm robustness, distributed optimization, and medical image analysis.
 
-Publication & Manuscripts
+Publication 
 ------
-- Shielding Federated Learning: Rectifying Direction Is All You Need 
-**Jianrong Lu**; Shengshan Hu; Wei Wan; Minghui Li; Leo Yu Zhang; Xiaojing Ma; Hai Jin 
-NDSS 2023, UNDER REVIEW (passed the first round of review): The Network and Distributed System Security Symposium (NDSS), 2023 
-
 - BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272).
 Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
 Proceedings of the 30th ACM International Conference on Multimedia  (*ACM MM 2022*).  
 
+- Downstream-agnostic Adversarial Examples. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272).
+**Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin .
+Proceedings of the International Conference on Computer Vision  (*ICCV 2023*).  
 
 Honors & Awards
 ------
