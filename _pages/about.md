@@ -23,7 +23,7 @@ Research Interests
 As a researcher in the field of artificial intelligence (AI), my primary interest lies in the area of AI security. Specifically, I am interested in the study of **Adversarial Examples** and **Backdoor Attacks**, with a recent focus on the security of pre-trained large models (PLMs) and the vulnerability of Image Segmentation and Object Detection to adversarial attacks. My research aims to develop robust and secure AI systems that can withstand various types of attacks and ensure the safety and reliability of AI applications. Through my work, I hope to contribute to the advancement of AI security and establish a more secure and trustworthy AI ecosystem.
 
 Publication
-------
+======
 - **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
 Downstream-agnostic Adversarial Examples.
 In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
@@ -32,7 +32,7 @@ BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
 In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
 Honors & Awards
-------
+======
 - [2023] Outstanding Graduate Student Communist Party Member Model Award.
 - [2022] National Artificial Intelligence Security Competition, Excellence Award.
 - [2022] National Scholarship for graduate students.
