@@ -26,7 +26,7 @@ Publication
 ======
 - **Ziqi Zhou**, Shengshan Hu, Minghui Li, Hangtao Zhang, Yechao Zhang, Hai Jin.
 Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning.
-In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
+In Proceedings of **ACM MM**. 2023. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 - **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
 Downstream-agnostic Adversarial Examples.
 In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
