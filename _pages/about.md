@@ -11,13 +11,6 @@ I am currently a Ph.D. student advised by Prof. Shengshan Hu, Dezhong Yao in Sch
 
 I am an enthusiastic researcher with a passion for exploring new ideas and pushing the boundaries of knowledge. In addition to my academic pursuits, I am also an avid debater and enjoy participating in debate competitions. I find great satisfaction in the process of thinking critically and exchanging ideas with others, and I believe that this skillset has been invaluable in my pursuit of academic excellence. I am committed to pursuing research that not only advances our understanding of the world around us, but also has the potential to positively impact society at large.
 
-Education
-======
-- 2023 - Now  School of Computer Science and Technology, Huazhong University of Science and Technology, China,
-  Ph.D. in Computer Science
-- 2021 - 2023  School of Cyber Science and Engineering, Huazhong University of Science and Technology, China, 
-  M.S. in Cyberspace Security
-  
 Research Interests
 ======
 As a researcher in the field of artificial intelligence (AI), my primary interest lies in the area of AI security. Specifically, I am interested in the study of **Adversarial Examples** and **Backdoor Attacks**, with a recent focus on the security of pre-trained large models (PLMs) and the vulnerability of Image Segmentation and Object Detection to adversarial attacks. My research aims to develop robust and secure AI systems that can withstand various types of attacks and ensure the safety and reliability of AI applications. Through my work, I hope to contribute to the advancement of AI security and establish a more secure and trustworthy AI ecosystem.
