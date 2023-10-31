@@ -19,19 +19,20 @@ Publication
 ======
 - **Ziqi Zhou**, Shengshan Hu, Minghui Li, Hangtao Zhang, Yechao Zhang, Hai Jin.
 AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning.
-In Proceedings of **ACM MM**. 2023. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://arxiv.org/abs/2308.07026)
+In Proceedings of **ACM MM**. 2023. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612454)
 - **Ziqi Zhou**, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin.
 Downstream-agnostic Adversarial Examples.
-In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://arxiv.org/abs/2307.12280)
+In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/AdvEncoder)[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Downstream-agnostic_Adversarial_Examples_ICCV_2023_paper.pdf)
 - Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
 BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
 In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
 Professional Services
 ======
-- ACM Mutimeda 2023 (CCF A)
+Serve as a reviewer for the following international journal & conferences
 - IEEE Transactions on Information Systems (CCF A)
 - IEEE Signal Processing Letters
+- ACM Mutimeda 2023 (CCF A)
 - The 18th International Conference on Green, Pervasive, and Cloud Computing 
 
 Honors & Awards
