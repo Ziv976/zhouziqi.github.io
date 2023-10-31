@@ -27,6 +27,13 @@ In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/Ad
 BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
 In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
 
+Professional Services
+======
+- ACM Mutimeda 2023 (CCF A)
+- IEEE Transactions on Information Systems (CCF A)
+- IEEE Signal Processing Letters
+- The 18th International Conference on Green, Pervasive, and Cloud Computing 
+
 Honors & Awards
 ======
 - [2023] Outstanding Graduate Student Communist Party Member Model Award.
