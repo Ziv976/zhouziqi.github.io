@@ -29,7 +29,7 @@ In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHa
 
 Professional Services
 ======
-Serve as a reviewer for the following international journal & conferences
+Serve as a reviewer for the following international journal & conference:
 - IEEE Transactions on Information Systems (CCF A)
 - IEEE Signal Processing Letters
 - ACM Mutimeda 2023 (CCF A)
