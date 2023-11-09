@@ -34,7 +34,7 @@ Serve as a reviewer for the following international journal & conference:
 - ACM Mutimeda 2023 (ACM MM, CCF A)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - IEEE Signal Processing Letters (SPL)
-- The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
+- The 6th International Conference on Green, Pervasive, and Cloud Computing (GPC)
 
 Serve as a program committee member for the following international conference:
 - The Sixteenth International Conference on Creative Content Technologies (CONTENT)
