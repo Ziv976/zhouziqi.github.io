@@ -31,6 +31,7 @@ Professional Services
 ======
 Serve as a reviewer for the following international journal & conference:
 - IEEE Transactions on Information Systems (CCF A)
+- Computer Vision and Image Understanding (CCF B)
 - IEEE Signal Processing Letters
 - ACM Mutimeda 2023 (CCF A)
 - The 18th International Conference on Green, Pervasive, and Cloud Computing 
