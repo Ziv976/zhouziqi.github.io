@@ -34,7 +34,10 @@ Serve as a reviewer for the following international journal & conference:
 - Computer Vision and Image Understanding (CCF B)
 - IEEE Signal Processing Letters
 - ACM Mutimeda 2023 (CCF A)
-- The 18th International Conference on Green, Pervasive, and Cloud Computing 
+- The 18th International Conference on Green, Pervasive, and Cloud Computing
+
+Serve as a program committee member for the following international conference:
+The Sixteenth International Conference on Creative Content Technologies
 
 Honors & Awards
 ======
