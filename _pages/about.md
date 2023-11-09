@@ -30,14 +30,14 @@ In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHa
 Professional Services
 ======
 Serve as a reviewer for the following international journal & conference:
-- IEEE Transactions on Information Systems (CCF A)
-- Computer Vision and Image Understanding (CCF B)
-- IEEE Signal Processing Letters
-- ACM Mutimeda 2023 (CCF A)
-- The 18th International Conference on Green, Pervasive, and Cloud Computing
+- IEEE Transactions on Information Systems (TOIS, CCF A)
+- ACM Mutimeda 2023 (ACM MM, CCF A)
+- Computer Vision and Image Understanding (CVIU, CCF B)
+- IEEE Signal Processing Letters (SPL)
+- The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
 
 Serve as a program committee member for the following international conference:
-The Sixteenth International Conference on Creative Content Technologies
+- The Sixteenth International Conference on Creative Content Technologies (CONTENT)
 
 Honors & Awards
 ======
