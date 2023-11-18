@@ -38,7 +38,7 @@ Serve as a reviewer for the following international journal & conference:
 
 Serve as a program committee member for the following international conference:
 - The 16th International Conference on Creative Content Technologies (CONTENT)
-- The 16th International Conference on Advances in Multimedia (MMEDIA).
+- The 16th International Conference on Advances in Multimedia (MMEDIA)
 
 Honors & Awards
 ======
