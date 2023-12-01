@@ -19,7 +19,7 @@ Publication
 ======
 - Wei Wan, Shengshan Hu, Jianrong Lu, Minghui Li, **Ziqi Zhou**, Hai Jin.
 Generalisation Robustness Enhancement for Federal Learning in Highly Data Heterogeneous Scenarios.
-In **Chinese Science: Information Science**. 2023.
+In **Chinese Science: Information Science**. 2023.  [[Code]](xxxxx)[[pdf]](xxxx)
 - **Ziqi Zhou**, Shengshan Hu, Minghui Li, Hangtao Zhang, Yechao Zhang, Hai Jin.
 AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning.
 In Proceedings of **ACM MM**. 2023. [[Code]](https://github.com/CGCL-codes/AdvCLIP)[[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612454)
