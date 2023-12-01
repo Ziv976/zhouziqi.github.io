@@ -17,6 +17,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication
 ======
+- Xianlong Wang, Shengshan Hu, Minghui Li, Zhifei Yu, **Ziqi Zhou**, Leo Yu Zhang, Hai Jin.
+Corrupting Unbounded Unlearnable Datasets with Pixel-based Image Transformations.
+**arXiv**. 2023.  [[Code]](xxxxx)[[pdf]](xxxx)
 - Wei Wan, Shengshan Hu, Jianrong Lu, Minghui Li, **Ziqi Zhou**, Hai Jin.
 Generalisation Robustness Enhancement for Federal Learning in Highly Data Heterogeneous Scenarios.
 In **Chinese Science: Information Science**. 2023.  [[Code]](xxxxx)[[pdf]](xxxx)
