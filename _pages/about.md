@@ -36,6 +36,7 @@ In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHa
 Professional Services
 ======
 Serve as a reviewer for the following international journals & conferences:
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
 - IEEE Transactions on Information Systems (TOIS, CCF A)
 - ACM Mutimeda 2023 (ACM MM, CCF A)
 - Computer Vision and Image Understanding (CVIU, CCF B)
