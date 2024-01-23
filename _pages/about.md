@@ -49,6 +49,7 @@ Serve as a program committee member for the following international conferences:
 
 Honors & Awards
 ======
+- [2024] Best Paper Award at the Academic Conference of the School of Computer Science and Technology
 - [2023] Outstanding Graduate Student Communist Party Member Model Award.
 - [2022] National Artificial Intelligence Security Competition, Excellence Award.
 - [2022] National Scholarship for graduate students.
