@@ -38,7 +38,7 @@ Professional Services
 Serve as a reviewer for the following international journals & conferences:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
 - IEEE Transactions on Information Systems (TOIS, CCF A)
-- ACM Mutimeda 2023 (ACM MM, CCF A)
+- ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - IEEE Signal Processing Letters (SPL)
 - The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
