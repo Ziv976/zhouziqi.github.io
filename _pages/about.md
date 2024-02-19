@@ -46,6 +46,7 @@ Serve as a reviewer for the following international journals & conferences:
 Serve as a program committee member for the following international conferences:
 - The 16th International Conference on Creative Content Technologies (CONTENT)
 - The 16th International Conference on Advances in Multimedia (MMEDIA)
+- The 18th International Conference on Advances in Semantic Processing (SEMAPRO)
 
 Honors & Awards
 ======
