@@ -17,10 +17,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication
 ======
-- **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yang, Hai Jin.
+- **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
 Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples.
-**IEEE S&P**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxx)
-  
+**IEEE S&P**. 2024.  [[Code]](https://arxiv.org/abs/2403.10801)[[pdf]](https://arxiv.org/abs/2403.10801)
 - Xianlong Wang, Shengshan Hu, Minghui Li, Zhifei Yu, **Ziqi Zhou**, Leo Yu Zhang, Hai Jin.
 Corrupting Unbounded Unlearnable Datasets with Pixel-based Image Transformations.
 **arXiv**. 2023.  [[Code]](xxxxx)[[pdf]](https://arxiv.org/abs/2311.18403)
