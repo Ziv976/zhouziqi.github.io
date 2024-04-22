@@ -16,7 +16,9 @@ Research Interests
 As a researcher in the field of artificial intelligence (AI), my primary interest lies in the area of AI security. Specifically, I am interested in the study of **Adversarial Examples** and **Backdoor Attacks**, with a recent focus on the security of pre-trained large models (PLMs) and the vulnerability of Image Segmentation and Object Detection to adversarial attacks. My research aims to develop robust and secure AI systems that can withstand various types of attacks and ensure the safety and reliability of AI applications. Through my work, I hope to contribute to the advancement of AI security and establish a more secure and trustworthy AI ecosystem.
 
 Publication
-======
+====== https://arxiv.org/abs/2404.11357
+- Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, **Ziqi Zhou**, Xianlong Wang, Yanjun Zhang, Chao Chen.
+Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness. **IJCAI**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
 Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples.
 **IEEE S&P**. 2024.  [[Code]](https://arxiv.org/abs/2403.10801)[[pdf]](https://arxiv.org/abs/2403.10801)
