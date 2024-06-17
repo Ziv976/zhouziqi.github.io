@@ -19,7 +19,7 @@ Publication
 ======
 - Xianlong Wang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin.
 ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification.
-**ESORICS**. 2024.  [[Code]]xxxxx)[[pdf]](xxxxxx)
+**ESORICS**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
 - Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, **Ziqi Zhou**, Xianlong Wang, Yanjun Zhang, Chao Chen.
 Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness. **IJCAI**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
