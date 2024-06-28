@@ -19,12 +19,13 @@ Publication
 ======
 - Xianlong Wang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin.
 ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification.
-**ESORICS**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
+In Proceedings of **ESORICS**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
 - Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, **Ziqi Zhou**, Xianlong Wang, Yanjun Zhang, Chao Chen.
-Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness. **IJCAI**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
+Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness.
+In Proceedings of **IJCAI**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
 Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples.
-**IEEE S&P**. 2024.  [[Code]](https://arxiv.org/abs/2403.10801)[[pdf]](https://arxiv.org/abs/2403.10801)
+In Proceedings of **IEEE S&P**. 2024.  [[Code]](https://arxiv.org/abs/2403.10801)[[pdf]](https://arxiv.org/abs/2403.10801)
 - Xianlong Wang, Shengshan Hu, Minghui Li, Zhifei Yu, **Ziqi Zhou**, Leo Yu Zhang, Hai Jin.
 Corrupting Unbounded Unlearnable Datasets with Pixel-based Image Transformations.
 **arXiv**. 2023.  [[Code]](xxxxx)[[pdf]](https://arxiv.org/abs/2311.18403)
