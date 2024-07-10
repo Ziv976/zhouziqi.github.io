@@ -47,7 +47,7 @@ Professional Services
 Serve as a reviewer for the following international journals & conferences:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
 - IEEE Transactions on Information Systems (TOIS, CCF A)
-- The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeuIPS, CCF A)
+- The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF A)
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
