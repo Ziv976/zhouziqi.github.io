@@ -50,7 +50,7 @@ Serve as a reviewer for the following international journals & conferences:
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeuIPS, CCF A)
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - Computer Vision and Image Understanding (CVIU, CCF B)
-- International Conference on Pattern Recognition (ICPR, CCF C)
+- International Conference on Pattern Recognition 2024 (ICPR, CCF C)
 - IEEE Signal Processing Letters (SPL)
 - The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
 
