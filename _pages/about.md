@@ -17,7 +17,10 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication
 ======
-- Minghui LI, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou**, Shengshan Hu, Xiaobing Pei.
+- Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
+BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World.
+**arXiv**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
+- Minghui Li, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou**, Shengshan Hu, Xiaobing Pei.
 Transferable Adversarial Facial Images for Privacy Protection.
 In Proceedings of **ACM MM**. 2024. [[Code]](xxxxxx)[[pdf]](xxxxx)
 - Xianlong Wang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin.
