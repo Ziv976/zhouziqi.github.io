@@ -17,6 +17,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication
 ======
+- Minghui LI, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou**, Shengshan Hu, Xiaobing Pei.
+- Transferable Adversarial Facial Images for Privacy Protection.
+  In Proceedings of **ACM MM**. 2024. [[Code]](xxxxxx)[[pdf]](xxxxx)
 - Xianlong Wang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin.
 ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification.
 In Proceedings of **ESORICS**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
