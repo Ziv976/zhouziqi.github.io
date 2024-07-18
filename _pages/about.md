@@ -15,12 +15,12 @@ Research Interests
 ======
 As a researcher in the field of artificial intelligence (AI), my primary interest lies in the area of AI security. Specifically, I am interested in the study of **Adversarial Examples** and **Backdoor Attacks**, with a recent focus on the security of pre-trained large models (PLMs) and the vulnerability of Image Segmentation and Object Detection to adversarial attacks. My research aims to develop robust and secure AI systems that can withstand various types of attacks and ensure the safety and reliability of AI applications. Through my work, I hope to contribute to the advancement of AI security and establish a more secure and trustworthy AI ecosystem. If you’d like to discuss potential research opportunities or simply connect, please don’t hesitate to reach out to me at zhouziqi@hust.edu.cn.
 
-Publication
+Publication 
 ======
 - Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
 BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World.
 **arXiv**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
-- Minghui Li, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou**, Shengshan Hu, Xiaobing Pei.
+- Minghui Li, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou***, Shengshan Hu, Xiaobing Pei.
 Transferable Adversarial Facial Images for Privacy Protection.
 In Proceedings of **ACM MM**. 2024. [[Code]](xxxxxx)[[pdf]](xxxxx)
 - Xianlong Wang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin.
@@ -47,6 +47,8 @@ In Proceedings of **IEEE ICCV**. 2023. [[Code]](https://github.com/CGCL-codes/Ad
 - Shengshan Hu, **Ziqi Zhou**, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin.
 BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
 In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHash)[[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548272)
+
+\* indicates the corresponding author
 
 Professional Services
 ======
