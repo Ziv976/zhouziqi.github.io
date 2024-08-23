@@ -57,6 +57,7 @@ Serve as a reviewer for the following international journals & conferences:
 - IEEE Transactions on Information Systems (TOIS, CCF A)
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF A)
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
+- International Conference on Learning Representations 2025 (ICLR)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
 - IEEE Signal Processing Letters (SPL)
