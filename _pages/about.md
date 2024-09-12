@@ -58,7 +58,7 @@ Serve as a reviewer for the following international journals & conferences:
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF A)
 - International Conference on Learning Representations 2025 (ICLR)
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
-- Conference on Empirical Methods in Natural Language Processing (EMNLP, CCF B)
+- Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP, CCF B)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
 - IEEE Signal Processing Letters (SPL)
