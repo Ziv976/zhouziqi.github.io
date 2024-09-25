@@ -20,6 +20,9 @@ Publication
 - **Ziqi Zhou**, Yufei Song, Minghui Li, Shengshan Hu, Xianlong Wang, Leo Yu Zhang, Dezhong Yao, Hai Jin.
 DarkSAM: Fooling Segment Anything Model to Segment Nothing.
 In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
+- Xianlong Wang, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Hai Jin.
+Class-wise Transformation Is All You Need.
+In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
 BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World.
 **arXiv**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
