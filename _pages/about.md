@@ -63,10 +63,12 @@ Serve as a reviewer for the following international journals & conferences:
 - IEEE Transactions on Information Systems (TOIS, CCF A)
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF A)
 - International Conference on Learning Representations 2025 (ICLR)
+- The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW, CCF A) 
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - IEEE Virtual Reality 2024（VR 2024, CCF A）
 - IEEE International Conference on Acoustics, Speech and Signal Processing 2025 (ICASSP, CCF B)
 - Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP, CCF B)
+- The International AAAI Conference on Web and Social Media (ICWSM, CCF B)
 - Computer Vision and Image Understanding (CVIU, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
 - IEEE Signal Processing Letters (SPL)
