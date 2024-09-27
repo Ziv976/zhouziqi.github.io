@@ -58,26 +58,28 @@ In Proceedings of **ACM MM**. 2022. [[Code]](https://github.com/CGCL-codes/BadHa
 
 Professional Services
 ======
-Serve as a reviewer for the following international journals & conferences:
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
-- IEEE Transactions on Information Systems (TOIS, CCF A)
+Serve as a area chair for the following international conferences:
+- The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW, CCF A)
+  
+Serve as a reviewer/ program committee member for the following international conferences:
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF A)
 - International Conference on Learning Representations 2025 (ICLR)
-- The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW, CCF A) 
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - IEEE Virtual Reality 2024（VR, CCF A）
 - IEEE International Conference on Acoustics, Speech and Signal Processing 2025 (ICASSP, CCF B)
 - Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP, CCF B)
 - The International AAAI Conference on Web and Social Media (ICWSM, CCF B)
-- Computer Vision and Image Understanding (CVIU, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
-- IEEE Signal Processing Letters (SPL)
 - The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
-
-Serve as a program committee member for the following international conferences:
 - The 16th International Conference on Creative Content Technologies (CONTENT)
 - The 16th International Conference on Advances in Multimedia (MMEDIA)
 - The 18th International Conference on Advances in Semantic Processing (SEMAPRO)
+  
+Serve as a reviewer for the following international journals:
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
+- IEEE Transactions on Information Systems (TOIS, CCF A)
+- Computer Vision and Image Understanding (CVIU, CCF B)
+- IEEE Signal Processing Letters (SPL)
 
 Honors & Awards
 ======
