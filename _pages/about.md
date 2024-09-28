@@ -70,7 +70,7 @@ Serve as a reviewer/ program committee member for the following international co
 - Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP, CCF B)
 - The International AAAI Conference on Web and Social Media (ICWSM, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
-- International Conference on Artificial Intelligence and Statistics 2025（AISTATS 2025） 
+- International Conference on Artificial Intelligence and Statistics 2025（AISTATS, CCF C） 
 - The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
 - The 16th International Conference on Creative Content Technologies (CONTENT)
 - The 16th International Conference on Advances in Multimedia (MMEDIA)
