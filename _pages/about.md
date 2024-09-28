@@ -79,6 +79,7 @@ Serve as a reviewer for the following international journals:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A)
 - IEEE Transactions on Information Systems (TOIS, CCF A)
 - Computer Vision and Image Understanding (CVIU, CCF B)
+- PLOS ONE 
 - IEEE Signal Processing Letters (SPL)
 
 Honors & Awards
