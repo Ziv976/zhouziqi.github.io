@@ -66,10 +66,11 @@ Serve as a reviewer/ program committee member for the following international co
 - International Conference on Learning Representations 2025 (ICLR)
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - IEEE Virtual Reality 2024（VR, CCF A）
-- ACM Conference on Human Factors in Computing Systems（CHI, CCF A）
+- ACM Conference on Human Factors in Computing Systems 2025（CHI, CCF A）
 - IEEE International Conference on Acoustics, Speech and Signal Processing 2025 (ICASSP, CCF B)
 - Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP, CCF B)
-- The International AAAI Conference on Web and Social Media (ICWSM, CCF B)
+- The International AAAI Conference on Web and Social Media 2025 (ICWSM, CCF B)
+- ACM International Conference on Intelligent User Interfaces 2025 (IUI, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
 - International Conference on Artificial Intelligence and Statistics 2025（AISTATS, CCF C） 
 - The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
