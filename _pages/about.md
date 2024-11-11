@@ -88,13 +88,14 @@ Serve as a reviewer for the following international journals:
 
 Honors & Awards
 ======
+- [2024] National Scholarship for Phd Students.
 - [2024] Best Paper Award at the Academic Conference of the School of Computer Science and Technology
 - [2023] Outstanding Graduate Student Communist Party Member Model Award.
 - [2022] National Artificial Intelligence Security Competition, Excellence Award.
-- [2022] National Scholarship for graduate students.
-- [2022] Outstanding graduate student award.
+- [2022] National Scholarship for Graduate Students.
+- [2022] Outstanding Graduate Student Award.
 - [2022] AAAI 2022 Data-Centric Robust Learning on ML Models, Twelfth Place Award.
-- [2021] Outstanding student award.
+- [2021] Outstanding Student Award.
 - [2021] Second-Rank Academic Scholarship.
 - [2021] Research and Innovation Scholarship.
 - [2020] First-Rank Outstanding Student Scholarship.
