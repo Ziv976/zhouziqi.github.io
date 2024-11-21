@@ -63,6 +63,7 @@ Serve as a area chair for the following international conferences:
   
 Serve as a reviewer/ program committee member for the following international conferences:
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF A)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, CCF A)
 - International Conference on Learning Representations 2025 (ICLR, CAAI A)
 - ACM Mutimeda 2023/2024 (ACM MM, CCF A)
 - IEEE Virtual Reality 2024（VR, CCF A）
