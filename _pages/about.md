@@ -17,6 +17,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ======
+- Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, **Ziqi Zhou**, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Yu Zhang.
+TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World.
+**arXiv**. 2024.  [[Code]](https://arxiv.org/abs/2411.11683)[[pdf]](https://arxiv.org/abs/2411.11683)
 - **Ziqi Zhou**, Yufei Song, Minghui Li, Shengshan Hu, Xianlong Wang, Leo Yu Zhang, Dezhong Yao, Hai Jin.
 DarkSAM: Fooling Segment Anything Model to Segment Nothing.
 In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
@@ -25,7 +28,7 @@ Class-wise Transformation Is All You Need.
 In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
 BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World.
-**arXiv**. 2024.  [[Code]](xxxxx)[[pdf]](xxxxxx)
+**arXiv**. 2024.  [[Code]](https://arxiv.org/abs/2407.20242)[[pdf]](https://arxiv.org/abs/2407.20242)
 - Minghui Li, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou***, Shengshan Hu, Xiaobing Pei.
 Transferable Adversarial Facial Images for Privacy Protection.
 In Proceedings of **ACM MM**. 2024. [[Code]](xxxxxx)[[pdf]](xxxxx)
