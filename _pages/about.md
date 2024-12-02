@@ -76,7 +76,8 @@ Serve as a reviewer/ program committee member for the following international co
 - The International AAAI Conference on Web and Social Media 2025 (ICWSM, CCF B)
 - ACM International Conference on Intelligent User Interfaces 2025 (IUI, CCF B)
 - International Conference on Pattern Recognition 2024 (ICPR, CCF C)
-- International Conference on Artificial Intelligence and Statistics 2025（AISTATS, CCF C） 
+- International Conference on Artificial Intelligence and Statistics 2025（AISTATS, CCF C）
+- The International Joint Conference on Neural Networks (IJCNN 2025, CCF C)
 - The 18th International Conference on Green, Pervasive, and Cloud Computing (GPC)
 - The 16th International Conference on Creative Content Technologies (CONTENT)
 - The 16th International Conference on Advances in Multimedia (MMEDIA)
