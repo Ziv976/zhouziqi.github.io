@@ -17,6 +17,15 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ======
+- **Ziqi Zhou**, Bowen Li, Yufei Song, Zhifei Yu, Shengshan Hu, Wei Wan, Leo Yu Zhang, Dezhong Yao, Hai Jin.
+ NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors.
+In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
+- Yichen Wang, Yuxuan Chou, **Ziqi Zhou**, Hangtao Zhang, Wei Wan, Shengshan Hu, Minghui Li.
+Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature.
+In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
+- Minghui Li, Xianlong Wang, Zhifei Yu, Shengshan Hu, **Ziqi Zhou**, Longling Zhang, Leo Yu Zhang.
+Detecting and Corrupting Convolution-based Unlearnable Examples.
+In Proceedings of **AAAI**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, **Ziqi Zhou**, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Yu Zhang.
 TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World.
 **arXiv**. 2024.  [[Code]](https://arxiv.org/abs/2411.11683)[[pdf]](https://arxiv.org/abs/2411.11683)
@@ -89,6 +98,7 @@ Serve as a reviewer for the following international journals:
 - IEEE Transactions on Multimedia (TMM, CCF B)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, CCF B)
 - Computer Vision and Image Understanding (CVIU, CCF B)
+- Applied Intelligence （APIN, CCF C）
 - PLOS ONE 
 - IEEE Signal Processing Letters (SPL)
 
