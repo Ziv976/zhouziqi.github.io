@@ -17,7 +17,7 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ======
--Yufei Song, **Ziqi Zhou**, Minghui Li, Xianlong Wang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang.
+- Yufei Song, **Ziqi Zhou**, Minghui Li, Xianlong Wang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang.
 PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation.
 In Proceedings of **ICASSP**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - **Ziqi Zhou**, Bowen Li, Yufei Song, Zhifei Yu, Shengshan Hu, Wei Wan, Leo Yu Zhang, Dezhong Yao, Hai Jin.
