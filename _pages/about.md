@@ -17,6 +17,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ======
+- Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
+BadRobot: Manipulating Embodied LLMs in the Physical World.
+In Proceedings of **ICLR**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Yufei Song, **Ziqi Zhou***, Minghui Li, Xianlong Wang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang.
 PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation.
 In Proceedings of **ICASSP**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
@@ -38,9 +41,6 @@ In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[
 - Xianlong Wang, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, **Ziqi Zhou**, Hai Jin.
 Class-wise Transformation Is All You Need.
 In Proceedings of **NeurIPS**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
-- Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
-BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World.
-**arXiv**. 2024.  [[Code]](https://arxiv.org/abs/2407.20242)[[pdf]](https://arxiv.org/abs/2407.20242)
 - Minghui Li, Jiangxiong Wang, Hao Zhang, **Ziqi Zhou***, Shengshan Hu, Xiaobing Pei.
 Transferable Adversarial Facial Images for Privacy Protection.
 In Proceedings of **ACM MM**. 2024. [[Code]](xxxxxx)[[pdf]](xxxxx)
