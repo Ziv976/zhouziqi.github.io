@@ -77,6 +77,7 @@ Serve as a area chair for the following international conferences:
 - The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW, CCF A)
   
 Serve as a reviewer/ program committee member for the following international conferences:
+- The CVF/IEEE International Conference on Computer Vision 2025 (ICCV, CCF A)
 - The Annual Conference on Neural Information Processing Systems 2024 (NeurIPS, CCF A)
 - The International Conference on Machine Learning 2025 (ICML, CCF A)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR, CCF A)
