@@ -17,6 +17,9 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication 
 ======
+- Hangtao Zhang, Yichen Wang, Shihui Yan, Chenyu Zhu, **Ziqi Zhou**, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang.
+Test-Time Backdoor Detection for Object Detection Models.
+In Proceedings of **CVPR**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
 - Hangtao Zhang, Chengyu Zhu, Xianlong Wang, **Ziqi Zhou**, Shengshan Hu, Leo Yu Zhang.
 BadRobot: Manipulating Embodied LLMs in the Physical World.
 In Proceedings of **ICLR**. 2025. [[Code]](xxxxx)[[pdf]](xxxxx)
